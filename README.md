@@ -1,4 +1,4 @@
-command: 
+اداة لاعمل دوس ع المواقع واسقاطها
 
 apt updated && apt upgrade-y
 
@@ -12,3 +12,5 @@ cd elkabos-DDOS
 chmod +x * 
 
 python3 Mr-elkabos.py
+
+حسابي Telegram @Mr_Dark_elkabos
